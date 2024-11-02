@@ -91,3 +91,4 @@
 *Got questions or thoughts? Share them and keep the conversation going. Data engineering is better when we learn and grow together.*
 
 source: https://www.startdataengineering.com/post/n-job-reponsibilities-of-a-data-engineer
+many thanks to @josephmachado
